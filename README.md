@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ctrl-alt-sweets-1234/contoso-air/_apis/build/status%2FPauloBusch.contoso-air?branchName=master)](https://dev.azure.com/ctrl-alt-sweets-1234/contoso-air/_build/latest?definitionId=3&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
